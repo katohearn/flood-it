@@ -1,4 +1,5 @@
 import sys, getopt
+from input_controller import *
 
 def usage():
     print('python3 main.py -s <size> -c <num colors> -t <turns>')
